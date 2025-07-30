@@ -15,7 +15,7 @@
 
 ## Methodology
 ### Data Scraping
-The dataset comprise 2,000 reviews scraped from Google Play Store. Sentiment labels (positive or negative) were manually assigned based on the corresponding rating scores.
+The dataset comprises **2,000** reviews scraped from Google Play Store. Sentiment labels (positive or negative) were manually assigned based on the corresponding rating scores.
 
 ### Data Preprocessing
 1. **Case-folding**: Converted all characters in the reviews to lowercase.
