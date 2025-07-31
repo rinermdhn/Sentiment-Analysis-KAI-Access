@@ -1,6 +1,6 @@
 # Sentiment-Analysis-KAI-Access
 
-⭐ This project performs sentiment analysis on user reviews of the *Access by KAI* application, scraped from Google Play Store. It involves processing unstructured textual data and compares the performance of **Random Forest** and **Naive Bayes** classifiers in sentiment classification. The pipeline includes data scraping, manual sentiment labeling, data preprocessing, sentiment analysis, and model evaluation to determine the most effective classification approach.
+⭐ This project performs sentiment analysis on user reviews of the *Access by KAI* application, scraped from *Google Play Store*. It involves processing unstructured textual data and compares the performance of **Random Forest** and **Naive Bayes** classifiers in sentiment classification. The pipeline includes data scraping, manual sentiment labeling, data preprocessing, sentiment analysis, and model evaluation to determine the most effective classification approach.
 
 ## Features
 - `userName`: The username of the individual who submitted the review.
